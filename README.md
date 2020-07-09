@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a designer living in Curitiba - Brazil San Francisco leading an awesome Design Team at Pipefy, making the processes in companies around the world even better.
+
+
+Before, I worked as Design Lead for GVT/Vivendi, a telecom company that was recently acquired by Telefonica Group (NYSE:TEF) for US$9.3 billion.
+
+
+In my free time I like to create awesome products, making smart stuff people love to use and interviewing a lot of awesome designers.
+
+
 <!--
 **maurivan/maurivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
