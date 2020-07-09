@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a designer living in Curitiba - Brazil San Francisco leading an awesome Design Team at Pipefy, making the processes in companies around the world even better.
+I'm a designer who sometimes code living in San Francisco leading an awesome Design Team at Pipefy, making the processes in companies around the world even better.
 
 
 Before, I worked as Design Lead for GVT/Vivendi, a telecom company that was recently acquired by Telefonica Group (NYSE:TEF) for US$9.3 billion.
